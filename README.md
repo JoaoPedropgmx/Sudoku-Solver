@@ -1,3 +1,2 @@
 # Sudoku-Solver
-Projeto Solucionador de Sudoku
-Bibliotecas: Numpy 
+Projeto Solucionador de Sudoku usando python
